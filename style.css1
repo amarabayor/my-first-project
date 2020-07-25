@@ -1,0 +1,46 @@
+#font-size{ font-size: 15px;
+    line-height:1.5;}
+  .img-cat{
+    width:90%;
+    border-radius:5px;
+    margin:0;
+    background:white;
+    padding:5px;
+    }
+   .lovey-dovey {
+    color:white;
+    text-align:center;
+    font-size:100px;
+    padding: 10px;
+    border-radius:10px;
+    background-color:black;
+    text-decoration:underline; 
+    margin:0px;
+     font-family:fantasy;
+  }
+   #official-info {background: rgb(230, 230, 230);
+  line-height:1.5;}
+  #div-padding{padding:5px;
+  border-radius:15px;
+    background:white;
+    font-size:150;
+    
+  }
+  #love-cat{
+    font-size:100px;
+    margin:0px;
+    text-decoration:none;
+    text-align:center;
+  }
+  .text-color{
+    font-size:30px;
+    margin:0px;
+  }
+  .menu {display:flex;
+  flex-direction:row;
+  justify-content:space-around;
+  }
+  nav>ul{width:80vw;
+  flex-direction:row;}
+  #header{position:flex;
+  top:0;}
